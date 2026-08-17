@@ -1,10 +1,5 @@
-# 📺 MM IPTV Service Center
+# 📺 IPTV Service Center
 
-<div align="center">
-
-### 🚀 IPTV · MiTV · Smart Streaming Service
-
-简洁、稳定、快速的 IPTV 服务入口主页
 
 </div>
 
@@ -59,17 +54,7 @@
 
 ---
 
-## 🖥️ Interface Preview
 
-主页采用科技感深色 UI：
-
-- 🌌 Dynamic gradient background
-- 💎 Glass card design
-- 🚀 Modern button interaction
-- 📱 Mobile friendly
-
-
----
 
 ## 📧 Contact
 
